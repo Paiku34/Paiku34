@@ -21,7 +21,7 @@ Independent research and low-level exploit development.
 * Analysis and bypass of modern mitigations (Full RELRO, ASLR, PIE).
 * **Tech:** `C` `Python` `pwntools` `GDB` `Reverse Engineering`
 
-#### 2. [Secure Digital Signature Service](link_to_repo)
+#### 2. [Secure Digital Signature Service](https://github.com/Paiku34/SecureDigitalSignatureService)
 Multithreaded client-server architecture in C++ protected against replay attacks and eavesdropping.
 * Implementation of custom authentication protocols and Perfect Forward Secrecy using OpenSSL.
 * **Tech:** `C++` `Socket Programming` `OpenSSL` `Cryptography`
