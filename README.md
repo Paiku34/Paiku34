@@ -1,43 +1,48 @@
-# Ciao, sono Klaudio Çaça 👾
+# Hi, I'm Klaudio Ciacia 👾
 
-**Ingegnere Informatico | Offensive Security | C/C++ Internals & Exploit Dev**
+**Computer Engineer | Offensive Security | C/C++ Internals & Exploit Dev**
 
-Unisco il mindset da attaccante al rigore ingegneristico. Focalizzato su architetture a basso livello, Kernel exploitation e mitigazione di vulnerabilità complesse su infrastrutture critiche e sistemi cyber-fisici distribuiti. 
-
----
-
-### 🛠️ Competenze Tecniche
-* **Linguaggi:** C/C++, Assembly x86-64, VHDL, Python, PHP, SQL
-* **Offensive Security:** Kernel Exploitation, Stack/Heap Overflow, ROP/JOP Chains, ASLR/PIE Bypass
-* **Infrastrutture & OS:** Linux Kernel, Docker (Capabilities, Namespaces), KVM, Git
-* **AppSec:** Defense in Depth, Mitigazione OWASP, Crittografia Applicata
+I combine an attacker's mindset with engineering rigor. Focused on low-level architectures, Kernel exploitation, and mitigating complex vulnerabilities in critical infrastructures and distributed cyber-physical systems. 
 
 ---
 
-### 🚀 Progetti in Evidenza
+### 🛠️ Technical Skills
+* **Languages:** C/C++, Assembly x86-64, VHDL, Python, PHP, SQL
+* **Offensive Security:** Kernel Exploitation, Stack/Heap Overflow, Double Free/Use After Free, ROP Chains, ASLR/PIE Bypass
+* **Infrastructure & OS:** Linux Kernel, Docker (Capabilities, Namespaces), KVM, Git
+* **AppSec:** Defense in Depth, OWASP Mitigation, Applied Cryptography
 
-#### 1. [Vulnerability Research & Exploit Development Lab](link_al_tuo_repo_se_esiste)
-Ricerca indipendente e sviluppo di exploit a basso livello.
-* Analisi e bypass di mitigazioni moderne (Full RELRO, ASLR) orchestrando evasioni da ambienti isolati verso target locali (es. `10.0.2.15`).
+---
+
+### 🚀 Featured Projects
+
+#### 1. [Vulnerability Research & Exploit Development Lab](link_to_repo)
+Independent research and low-level exploit development.
+* Analysis and bypass of modern mitigations (Full RELRO, ASLR, PIE).
 * **Tech:** `C` `Python` `pwntools` `GDB` `Reverse Engineering`
 
-#### 2. [Secure Digital Signature Service](link_al_tuo_repo_se_esiste)
-Architettura client-server multithread in C++ protetta contro attacchi di replay e intercettazione.
-* Implementazione di protocolli di autenticazione custom e Perfect Forward Secrecy tramite OpenSSL.
-* **Tech:** `C++` `Socket Programming` `OpenSSL`
+#### 2. [Secure Digital Signature Service](link_to_repo)
+Multithreaded client-server architecture in C++ protected against replay attacks and eavesdropping.
+* Implementation of custom authentication protocols and Perfect Forward Secrecy using OpenSSL.
+* **Tech:** `C++` `Socket Programming` `OpenSSL` `Cryptography`
 
-#### 3. [Co-Simulazione Automotive & Byzantine Fault Mitigation](link_al_tuo_repo_se_esiste)
-Simulazione di un platoon di veicoli autonomi sotto attacco informatico.
-* Integrazione dell'algoritmo di consenso OM(1) per garantire la tolleranza ai guasti e neutralizzare i dati malevoli.
-* **Tech:** `INTO-CPS` `C` `Algoritmi di Consenso`
+#### 3. [Automotive Co-Simulation & Byzantine Fault Mitigation](link_to_repo)
+Simulation of an autonomous vehicle platoon under a targeted cyber-attack.
+* Integrated the OM(1) consensus algorithm to guarantee fault tolerance and neutralize malicious data sent by compromised leader nodes.
+* **Tech:** `INTO-CPS` `C` `Consensus Algorithms` `Cyber-Physical Systems`
 
-#### 4. [Secure Web Application Architecture](link_al_tuo_repo_se_esiste)
-Piattaforma con mitigazione nativa delle vulnerabilità (CSRF token anti-timing, policy CSP rigorose).
+#### 4. [Hardware Pseudo-Noise Sequence Generator (PNSG)](link_to_repo)
+VHDL implementation of a PNSG for CDMA IS-95 transmissions synthesized on a Zynq FPGA.
+* Performed RTL analysis and computed the Worst Negative Slack (WNS) and maximum clock frequency using industrial tools.
+* **Tech:** `VHDL` `FPGA` `Vivado` `ModelSim`
+
+#### 5. [Secure Web Application Architecture](link_to_repo)
+Web platform built with native vulnerability mitigations (anti-timing CSRF tokens, strict CSP policies, secure cookies).
 * **Tech:** `PHP 8` `MariaDB` `Docker` `Web Security`
 
 ---
 
-### 🏆 Riconoscimenti
-* **1° Classificato** - UniCTF Pisa (Competizione di Offensive Security e Binary Exploitation)
+### 🏆 Honors & Awards
+* **1st Place** - UniCTF Pisa (Offensive Security & Binary Exploitation Competition)
 
-📫 **Contattami:** [LinkedIn](https://linkedin.com/in/tuoprofilo) | cacaklaudio@gmail.com
+📫 **Reach out to me:** [LinkedIn](https://linkedin.com/in/tuoprofilo) | cacaklaudio@gmail.com
