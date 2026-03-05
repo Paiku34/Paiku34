@@ -16,7 +16,7 @@ I combine an attacker's mindset with engineering rigor. Focused on low-level arc
 
 ### 🚀 Featured Projects
 
-#### 1. [CTF & Binary Exploitation Lab](link_to_repo)
+#### 1. [CTF & Binary Exploitation Lab]
 Custom exploit development for competitive Capture The Flag (CTF) challenges and pwn scenarios.
 * Reverse engineering and weaponization of memory corruption vulnerabilities, bypassing modern mitigations (Full RELRO, ASLR, PIE).
 * **Tech:** `C` `Python` `pwntools` `GDB` `Reverse Engineering``
