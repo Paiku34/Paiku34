@@ -26,7 +26,7 @@ Multithreaded client-server architecture in C++ protected against replay attacks
 * Implementation of custom authentication protocols and Perfect Forward Secrecy using OpenSSL.
 * **Tech:** `C++` `Socket Programming` `OpenSSL` `Cryptography`
 
-#### 3. [Automotive Co-Simulation & Byzantine Fault Mitigation](link_to_repo)
+#### 3. [Automotive Co-Simulation & Byzantine Fault Mitigation](https://github.com/Paiku34/ByzantineConvoy)
 Simulation of an autonomous vehicle platoon under a targeted cyber-attack.
 * Integrated the OM(1) consensus algorithm to guarantee fault tolerance and neutralize malicious data sent by compromised leader nodes.
 * **Tech:** `INTO-CPS` `C` `Consensus Algorithms` `Cyber-Physical Systems`
@@ -36,7 +36,7 @@ VHDL implementation of a PNSG for CDMA IS-95 transmissions synthesized on a Zynq
 * Performed RTL analysis and computed the Worst Negative Slack (WNS) and maximum clock frequency using industrial tools.
 * **Tech:** `VHDL` `FPGA` `Vivado` `ModelSim`
 
-#### 5. [Secure Web Application Architecture](link_to_repo)
+#### 5. [Secure Web Application Architecture](https://github.com/Paiku34/SecureWebApplicationArchitecture)
 Web platform built with native vulnerability mitigations (anti-timing CSRF tokens, strict CSP policies, secure cookies).
 * **Tech:** `PHP 8` `MariaDB` `Docker` `Web Security`
 
