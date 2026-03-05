@@ -31,7 +31,7 @@ Simulation of an autonomous vehicle platoon under a targeted cyber-attack.
 * Integrated the OM(1) consensus algorithm to guarantee fault tolerance and neutralize malicious data sent by compromised leader nodes.
 * **Tech:** `INTO-CPS` `C` `Consensus Algorithms` `Cyber-Physical Systems`
 
-#### 4. [Hardware Pseudo-Noise Sequence Generator (PNSG)](link_to_repo)
+#### 4. [Hardware Pseudo-Noise Sequence Generator (PNSG)](https://github.com/Paiku34/vhdl-lfsr15-pn-generator)
 VHDL implementation of a PNSG for CDMA IS-95 transmissions synthesized on a Zynq FPGA.
 * Performed RTL analysis and computed the Worst Negative Slack (WNS) and maximum clock frequency using industrial tools.
 * **Tech:** `VHDL` `FPGA` `Vivado` `ModelSim`
