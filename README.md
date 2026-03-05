@@ -16,10 +16,10 @@ I combine an attacker's mindset with engineering rigor. Focused on low-level arc
 
 ### 🚀 Featured Projects
 
-#### 1. [Vulnerability Research & Exploit Development Lab](link_to_repo)
-Independent research and low-level exploit development.
-* Analysis and bypass of modern mitigations (Full RELRO, ASLR, PIE).
-* **Tech:** `C` `Python` `pwntools` `GDB` `Reverse Engineering`
+#### 1. [CTF & Binary Exploitation Lab](link_to_repo)
+Custom exploit development for competitive Capture The Flag (CTF) challenges and pwn scenarios.
+* Reverse engineering and weaponization of memory corruption vulnerabilities, bypassing modern mitigations (Full RELRO, ASLR, PIE).
+* **Tech:** `C` `Python` `pwntools` `GDB` `Reverse Engineering``
 
 #### 2. [Secure Digital Signature Service](https://github.com/Paiku34/SecureDigitalSignatureService)
 Multithreaded client-server architecture in C++ protected against replay attacks and eavesdropping.
