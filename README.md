@@ -45,4 +45,4 @@ Web platform built with native vulnerability mitigations (anti-timing CSRF token
 ### 🏆 Honors & Awards
 * **1st Place** - UniCTF Pisa (Offensive Security & Binary Exploitation Competition)
 
-📫 **Reach out to me:** [LinkedIn](https://linkedin.com/in/tuoprofilo) | cacaklaudio@gmail.com
+📫 **Reach out to me:** cacaklaudio@gmail.com
