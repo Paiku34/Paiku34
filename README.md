@@ -48,6 +48,12 @@ VHDL implementation of a PNSG for CDMA IS-95 transmissions synthesized on a Zynq
 Web platform built with native vulnerability mitigations (anti-timing CSRF tokens, strict CSP policies, secure cookies).
 * **Tech:** `PHP 8` `MariaDB` `Docker` `Web Security`
 
+#### 5. [Highway Toll Barrier Performance Evaluation](https://github.com/Paiku34/HighwayTollBarrierSimulation-omnetpp)
+Simulation and performance evaluation of a highway toll barrier to analyze queueing and response times.
+* Developed in OMNeT++ to model varying workloads and service time distributions (exponential and lognormal).
+* Calibrated simulation parameters to evaluate system behavior and optimize the allocation of Electronic Toll Collection (ETC) lanes.
+* **Tech:** `OMNeT++` `C++` `Queueing Theory` `Performance Evaluation`
+
 ---
 
 ### 🚩 CTF & Binary Exploitation
