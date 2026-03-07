@@ -19,7 +19,7 @@ I combine an attacker's mindset with engineering rigor. Focused on low-level arc
 #### 1. [CTF & Binary Exploitation Lab]
 Custom exploit development for competitive Capture The Flag (CTF) challenges and pwn scenarios.
 * Reverse engineering and weaponization of memory corruption vulnerabilities, bypassing modern mitigations (Full RELRO, ASLR, PIE).
-* **Tech:** `C` `Python` `pwntools` `GDB` `Reverse Engineering``
+* **Tech:** `C` `Python` `pwntools` `GDB` `Reverse Engineering`
 
 #### 2. [Secure Digital Signature Service](https://github.com/Paiku34/SecureDigitalSignatureService)
 Multithreaded client-server architecture in C++ protected against replay attacks and eavesdropping.
