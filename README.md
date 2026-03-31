@@ -1,4 +1,4 @@
-# Hi, I'm Klaudio Çaça 👾
+# Hi, I'm Klaudio Ciacia 👾
 
 **Computer Engineer | Offensive Security | C/C++ Internals & Exploit Dev**
 
@@ -66,4 +66,4 @@ Custom exploit development for competitive Capture The Flag (CTF) challenges and
 
 ---
 
-📫 **Reach out to me:** [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cacaklaudio@gmail.com)
+📫 **Reach out to me:** [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:klaudiociacia@gmail.com)
