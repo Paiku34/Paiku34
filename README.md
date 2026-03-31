@@ -1,4 +1,4 @@
-# Hi, I'm Klaudio Ciacia 👾
+# Hi, I'm Klaudio Ciacia 
 
 **Computer Engineer | Offensive Security | C/C++ Internals & Exploit Dev**
 
@@ -6,7 +6,7 @@ I combine an attacker's mindset with engineering rigor. Focused on low-level arc
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 **Languages:** ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
@@ -27,7 +27,7 @@ I combine an attacker's mindset with engineering rigor. Focused on low-level arc
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 #### 1. [Secure Digital Signature Service](https://github.com/Paiku34/SecureDigitalSignatureService)
 Multithreaded client-server architecture in C++ protected against replay attacks and eavesdropping.
